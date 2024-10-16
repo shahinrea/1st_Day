@@ -2,7 +2,7 @@ import Logo from './Assests/logo_bn.png';
 
 const Navbar = () => {
   return (
-    <div className="max-w-7xl mx-auto flex flex-row justify-between items-center">
+    <div className="max-w-7xl mx-auto flex flex-row justify-between items-center font-notobangla">
       <a href="">
         <img src={Logo} alt="" />
       </a>
