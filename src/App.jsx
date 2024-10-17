@@ -1,3 +1,4 @@
+import MenuBar from './MenuBar';
 import Navbar from './Navbar';
 import TopHeader from './TopHeader';
 
@@ -6,6 +7,7 @@ function App() {
     <div className="">
       <TopHeader />
       <Navbar />
+      <MenuBar />
     </div>
   );
 }
